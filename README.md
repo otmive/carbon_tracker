@@ -1,4 +1,4 @@
-# Carbon Reporting Python Package
+# Experiment Reporting Python Package
 
 ## Installation
 Clone the repository and use pip to build the package locally. For example if the repo is in '~Documents/carbon_tracker'

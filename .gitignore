@@ -3,5 +3,5 @@ build/
 .idea/
 *.egg-info/
 *.egg
-MANIFEST
+MANIFEST.in
 *.pyc
