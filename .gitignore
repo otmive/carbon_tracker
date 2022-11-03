@@ -1,0 +1,6 @@
+.Python
+build/
+.idea/
+*.egg-info/
+*.egg
+MANIFEST
